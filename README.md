@@ -97,8 +97,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributers
-[dominic754 - Repository Manager](https://github.com/dominic754)
-<a href = "https://github.com/dominic754/CalculatorInEveryLanguage/contributors">
+<a href = "https://github.com/dominic754/CalculatorInEveryLanguage/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = dominic754/CalculatorInEveryLanguage"/>
 </a>
 
