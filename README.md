@@ -18,6 +18,7 @@ Dart - ❌ <br>
 D - ❌ <br>
 Fortran - ❌ <br>
 F# - ❌ <br>
+Gleam - ❌ <br>
 Go - ✅ <br>
 Groovy - ❌ <br>
 Hack - ❌ <br>
