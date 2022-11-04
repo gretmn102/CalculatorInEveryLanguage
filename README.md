@@ -90,7 +90,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributers
-[dominic754(https://github.com/dominic754)]
+[dominic754](https://github.com/dominic754)
 
 
 
