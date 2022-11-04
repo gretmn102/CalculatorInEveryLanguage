@@ -14,7 +14,7 @@ Beef - ❌ <br>
 Boolfuck - ❌ <br>
 Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
-Chapel
+Chapel - ❌ <br> 
 Clojure - ❌ <br>
 CPython - ❌ <br>
 CoffeeScript - ❌ <br>
