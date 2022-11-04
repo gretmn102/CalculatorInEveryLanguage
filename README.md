@@ -14,6 +14,7 @@ Assembly - ❌ <br>
 Bash - ✅ - [Bash Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Bash) <br>
 Basic-256 - ❌ <br>
 Beef - ❌ <br>
+Blitz Basic - ❌ <br>
 Boolfuck - ❌ <br>
 Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
@@ -43,6 +44,7 @@ Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
 HTML - ❌ <br>
+Irdris - ❌ <br>
 IO - ❌ <br>
 Java - ✅ - [Java Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/java) <br>
 JavaScript - ❌ <br>
@@ -87,9 +89,11 @@ R - ❌ <br>
 R++ - ❌ <br>
 Scala - ❌ <br>
 Scheme - ❌ <br>
+Smarty - ❌ <br>
 Solidity - ❌ <br>
 SourcePawn - ❌ <br>
 Squirrel - ❌ <br>
+Starlark - ❌ <br>
 Swift - ❌ <br>
 TeX - ❌ <br>
 TypeScript - ❌ <br>
