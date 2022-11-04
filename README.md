@@ -46,6 +46,7 @@ Julia - ❌ <br>
 J++ - ❌ <br>
 J# - ❌ <br>
 Kotlin - ❌ <br>
+Lisp - ❌ <br>
 LiveScript - ❌ <br>
 Logo - ❌ <br>
 Lua - ❌ <br>
@@ -62,6 +63,7 @@ Objective-C - ❌ <br>
 Objective-C++ - ❌ <br>
 Objective-J - ❌ <br>
 Pascal - ❌ <br>
+Perl - ❌ <br>
 Pearl - ❌ <br>
 PHP - ❌ <br> 
 PonyC - ❌ <br>
