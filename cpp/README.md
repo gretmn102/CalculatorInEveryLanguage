@@ -1,7 +1,7 @@
-# Go Calculator 
-Welcome to the Go Calculator! 
+# C++ Calculator 
+Welcome to the C++ Calculator! 
 
 # Developers
-[dominic754](https://github.com/dominic754) - [dominic's ruby calculator](https://github.com/dominic754/tree/main/rubyhttps://github.com/dominic754/CalculatorInEveryLanguage/blob/main/go/main.go)
+[dominic754](https://github.com/dominic754) - [dominic's C++ calculator](https://github.com/dominic754/tree/main/cpp/main.cpp)
 
 # We Can't Wait for you to help and contribute to this project!
