@@ -1,6 +1,9 @@
 # Calculator In Every Language
 This is a simple repo where we will all try to make a calculator in as many programming languages as possible &amp; yes you can use markup languages
 
+# How it works
+So, this is a repository is just for a bunch of developers to contribute and use their programming knowledge to make a simple or advanced calculator in any language they want. We will allow for multiple people to have made a calculator in a certain language but we will try and limit it from around 5-20 people per language. Another thing to note is that the "❌" means that no one has made a calculator in that language. Now the "✅" means that someone has made a calculator in that language . Now this repository will be quite active and we will be accepting many programming languages.
+
 # Languages 
 
 ActionScript - ❌ <br>
@@ -17,7 +20,7 @@ CPython - ❌ <br>
 CoffeeScript - ❌ <br>
 Crystal - ❌ <br>
 C - ❌ <br>
-C++ - ✅ - [dominic754](https://github.com/dominic754) <br>
+C++ - ✅ - [C++ Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/cpp) <br>
 C# - ❌ <br>
 Dart - ❌ <br>
 D - ❌ <br>
@@ -27,7 +30,7 @@ Fortran - ❌ <br>
 F# - ❌ <br>
 Glass - ❌ <br>
 Gleam - ❌ <br>
-Go - ✅ - [dominic754](https://github.com/dominic754) <br>
+Go - ✅ - [Go Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/go) <br>
 Gobby - ❌ <br>
 Gravity - ❌ <br>
 Groovy - ❌ <br>
@@ -36,7 +39,7 @@ Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
 IO - ❌ <br>
-Java - ✅ - [dominic754](https://github.com/dominic754) <br>
+Java - ✅ - [Java Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/java) <br>
 JavaScript - ❌ <br>
 Julia - ❌ <br>
 J++ - ❌ <br>
@@ -69,7 +72,7 @@ Q# - ❌ <br>
 Racket - ❌ <br>
 Red - ❌ <br>
 Ring - ❌ <br>
-Ruby - ✅ - [dominic754](https://github.com/dominic754) <br> 
+Ruby - ✅ - [Ruby Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/ruby) <br> 
 Rust - ❌ <br>
 R - ❌ <br>
 R++ - ❌ <br>
@@ -91,7 +94,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributers
-[dominic754](https://github.com/dominic754)
+[dominic754 - Repository Manager](https://github.com/dominic754)
 
 # How to Contribute 
 Coming Soon... <br>
