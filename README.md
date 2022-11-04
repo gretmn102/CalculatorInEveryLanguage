@@ -102,6 +102,9 @@ To Contribute to CalculatorInEverylanguage or CIEL please read this [tutorial](h
 
 If this does not work message **dominic754#0001** on discord
 
+# Want to request a language?
+Create a [pull request](https://github.com/dominic754/CalculatorInEveryLanguage/pulls)!
+
 
 
 
