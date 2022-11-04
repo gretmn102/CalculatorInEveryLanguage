@@ -5,7 +5,7 @@ This is a simple repo where we will all try to make a calculator in as many prog
 
 Assembly - ❌ <br>
 Bash - ❌ <br>
-Basic256 - ❌ <br>
+Basic-256 - ❌ <br>
 Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
 Clojure - ❌ <br>
