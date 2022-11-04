@@ -53,7 +53,7 @@ Kotlin - ❌ <br>
 Lisp - ❌ <br>
 LiveScript - ❌ <br>
 Logo - ❌ <br>
-Lua - ❌ <br>
+Lua - ✅ - [Lua Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/lua) <br>
 Malbolge - ❌ <br>
 MATLAB - ❌ <br>
 MicroPython - ❌ <br>
