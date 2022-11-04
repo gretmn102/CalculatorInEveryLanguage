@@ -28,7 +28,8 @@ F# - ❌ <br>
 Glass - ❌ <br>
 Gleam - ❌ <br>
 Go - ✅ <br>
-Gobby
+Gobby - ❌ <br>
+Gravity - ❌ <br>
 Groovy - ❌ <br>
 Hack - ❌ <br>
 Haskell - ❌ <br>
