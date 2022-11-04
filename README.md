@@ -8,7 +8,7 @@ So, this is a repository is just for a bunch of developers to contribute and use
 
 ActionScript - ❌ <br>
 Assembly - ❌ <br>
-Bash - ✅ - [Bash Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/bash) <br>
+Bash - ✅ - [Bash Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Bash) <br>
 Basic-256 - ❌ <br>
 Beef - ❌ <br>
 Boolfuck - ❌ <br>
