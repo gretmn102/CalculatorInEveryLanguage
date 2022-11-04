@@ -17,7 +17,7 @@ CPython - ❌ <br>
 CoffeeScript - ❌ <br>
 Crystal - ❌ <br>
 C - ❌ <br>
-C++ - ✅ <br>
+C++ - ✅ - [dominic754](https://github.com/dominic754) <br>
 C# - ❌ <br>
 Dart - ❌ <br>
 D - ❌ <br>
@@ -27,7 +27,7 @@ Fortran - ❌ <br>
 F# - ❌ <br>
 Glass - ❌ <br>
 Gleam - ❌ <br>
-Go - ✅ <br>
+Go - ✅ - [dominic754](https://github.com/dominic754) <br>
 Gobby - ❌ <br>
 Gravity - ❌ <br>
 Groovy - ❌ <br>
@@ -36,7 +36,7 @@ Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
 IO - ❌ <br>
-Java - ✅ <br>
+Java - ✅ - [dominic754](https://github.com/dominic754) <br>
 JavaScript - ❌ <br>
 Julia - ❌ <br>
 J++ - ❌ <br>
@@ -69,7 +69,7 @@ Q# - ❌ <br>
 Racket - ❌ <br>
 Red - ❌ <br>
 Ring - ❌ <br>
-Ruby - ✅ <br> 
+Ruby - ✅ - [dominic754](https://github.com/dominic754) <br> 
 Rust - ❌ <br>
 R - ❌ <br>
 R++ - ❌ <br>
