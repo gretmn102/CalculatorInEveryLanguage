@@ -97,8 +97,9 @@ Z++ - ❌ <br>
 [dominic754 - Repository Manager](https://github.com/dominic754)
 
 # How to Contribute 
-Coming Soon... <br>
-for now just dm **dominic754#0001** on discord to contribute.
+To Contribute to CalculatorInEverylanguage or CIEL please read this [tutorial](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) by github
+
+If this does not work message **dominic754#0001** on discord
 
 
 
