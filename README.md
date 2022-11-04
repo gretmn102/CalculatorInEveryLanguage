@@ -60,6 +60,7 @@ Visual Basic - ❌ <br>
 Visual J++ - ❌ <br>
 Wyvern - ❌ <br>
 X# - ❌ <br>
+Zig - ❌ <br>
 Z++ - ❌ <br>
 
 
