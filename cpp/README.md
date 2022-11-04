@@ -2,6 +2,6 @@
 Welcome to the C++ Calculator! 
 
 # Developers
-[dominic754](https://github.com/dominic754) - [dominic's C++ calculator](https://github.com/dominic754/tree/main/cpp/main.cpp)
+[dominic754](https://github.com/dominic754) - [dominic's C++ calculator](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/cpp/main.cpp)
 
 # We Can't Wait for you to help and contribute to this project!
