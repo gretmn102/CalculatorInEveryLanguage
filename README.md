@@ -50,6 +50,7 @@ Julia - ❌ <br>
 J++ - ❌ <br>
 J# - ❌ <br>
 Kotlin - ❌ <br>
+Lean - ❌ <br>
 Lisp - ❌ <br>
 LiveScript - ❌ <br>
 Logo - ❌ <br>
@@ -73,6 +74,7 @@ PHP - ❌ <br>
 PonyC - ❌ <br>
 PowerShell - ✅ - [PowerShell Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/PowerShell)<br>
 Processing - ❌ <br>
+Puppet - ❌ <br>
 PureScript - ❌ <br>
 Python - ❌ <br>
 Q# - ❌ <br>
@@ -86,6 +88,7 @@ R++ - ❌ <br>
 Scala - ❌ <br>
 Scheme - ❌ <br>
 Solidity - ❌ <br>
+SourcePawn - ❌ <br>
 Squirrel - ❌ <br>
 Swift - ❌ <br>
 TeX - ❌ <br>
