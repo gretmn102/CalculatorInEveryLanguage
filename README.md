@@ -96,7 +96,7 @@ Zig - ❌ <br>
 ZScript - ❌ <br>
 Z++ - ❌ <br>
 
-# Contributers
+# Contributors
 <a href="https://github.com/dominic754/CalculatorInEveryLanguage/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dominic754/CalculatorInEveryLanguage"/>
 </a>
