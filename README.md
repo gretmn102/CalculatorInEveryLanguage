@@ -18,6 +18,7 @@ C++ - ✅ <br>
 C# - ❌ <br>
 Dart - ❌ <br>
 D - ❌ <br>
+Fredge - ❌ <br>
 Freebrain - ❌ <br>
 Fortran - ❌ <br>
 F# - ❌ <br>
@@ -29,12 +30,14 @@ Hack - ❌ <br>
 Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
+IO - ❌ <br>
 Java - ✅ <br>
 JavaScript - ❌ <br>
 Julia - ❌ <br>
 J++ - ❌ <br>
 J# - ❌ <br>
 Kotlin - ❌ <br>
+LiveScript - ❌ <br>
 Logo - ❌ <br>
 Lua - ❌ <br>
 Malbolge - ❌ <br>
@@ -55,6 +58,8 @@ Processing - ❌ <br>
 PureScript - ❌ <br>
 Python - ❌ <br>
 Q# - ❌ <br>
+Red - ❌ <br>
+Ring - ❌ <br>
 Ruby - ✅ <br> 
 Rust - ❌ <br>
 R - ❌ <br>
