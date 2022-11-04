@@ -94,7 +94,7 @@ Z++ - ❌ <br>
 [dominic754](https://github.com/dominic754)
 
 # How to Contribute 
-Coming Soon...
+Coming Soon... <br>
 for now just dm **dominic754#0001** on discord to contribute.
 
 
