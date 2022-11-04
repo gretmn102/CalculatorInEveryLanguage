@@ -7,10 +7,13 @@ ActionScript - ❌ <br>
 Assembly - ❌ <br>
 Bash - ❌ <br>
 Basic-256 - ❌ <br>
+Beef - ❌ <br>
 Boolfuck - ❌ <br>
 Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
+Chapel
 Clojure - ❌ <br>
+CPython - ❌ <br>
 CoffeeScript - ❌ <br>
 Crystal - ❌ <br>
 C - ❌ <br>
@@ -25,6 +28,7 @@ F# - ❌ <br>
 Glass - ❌ <br>
 Gleam - ❌ <br>
 Go - ✅ <br>
+Gobby
 Groovy - ❌ <br>
 Hack - ❌ <br>
 Haskell - ❌ <br>
@@ -42,10 +46,12 @@ Logo - ❌ <br>
 Lua - ❌ <br>
 Malbolge - ❌ <br>
 MATLAB - ❌ <br>
+MicroPython - ❌ <br>
 MoonScript - ❌ <br>
 M4 - ❌ <br>
 Nim - ❌ <br>
 Nix - ❌ <br>
+Nu - ❌ <br>
 OCaml - ❌ <br> 
 Objective-C - ❌ <br>
 Objective-C++ - ❌ <br>
@@ -53,11 +59,13 @@ Objective-J - ❌ <br>
 Pascal - ❌ <br>
 Pearl - ❌ <br>
 PHP - ❌ <br> 
+PonyC - ❌ <br>
 PowerShell - ❌ <br>
 Processing - ❌ <br>
 PureScript - ❌ <br>
 Python - ❌ <br>
 Q# - ❌ <br>
+Racket - ❌ <br>
 Red - ❌ <br>
 Ring - ❌ <br>
 Ruby - ✅ <br> 
@@ -81,6 +89,8 @@ Zig - ❌ <br>
 ZScript - ❌ <br>
 Z++ - ❌ <br>
 
+# Contributers
+[dominic754(https://github.com/dominic754)]
 
 
 
