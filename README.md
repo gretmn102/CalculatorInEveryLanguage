@@ -73,6 +73,7 @@ V - ❌ <br>
 Wyvern - ❌ <br>
 X# - ❌ <br>
 Zig - ❌ <br>
+ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 
