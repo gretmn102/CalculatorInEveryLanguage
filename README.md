@@ -19,6 +19,7 @@ Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
 Chapel - ❌ <br> 
 Clojure - ❌ <br>
+COBOL - ❌ <br> 
 CPython - ❌ <br>
 CoffeeScript - ❌ <br>
 Crystal - ❌ <br>
