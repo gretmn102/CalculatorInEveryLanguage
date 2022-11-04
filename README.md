@@ -67,7 +67,7 @@ Perl - ❌ <br>
 Pearl - ❌ <br>
 PHP - ❌ <br> 
 PonyC - ❌ <br>
-PowerShell - ❌ <br>
+PowerShell - ✅ - [PowerShell Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/PowerShell)<br>
 Processing - ❌ <br>
 PureScript - ❌ <br>
 Python - ❌ <br>
