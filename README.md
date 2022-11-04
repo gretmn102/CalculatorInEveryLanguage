@@ -1,5 +1,5 @@
 # Calculator In Every Language
-This is a simple repo where we will all try to make a calculator in as many programming languages as possible &amp; yes you can use markup languages
+This is a simple repository where we will all try to make a calculator in as many programming languages as possible
 
 # How it works
 So, this is a repository is just for a bunch of developers to contribute and use their programming knowledge to make a simple or advanced calculator in any language they want. We will allow for multiple people to have made a calculator in a certain language but we will try and limit it from around 5-20 people per language. Another thing to note is that the "❌" means that no one has made a calculator in that language. Now the "✅" means that someone has made a calculator in that language . Now this repository will be quite active and we will be accepting many programming languages.
@@ -38,6 +38,7 @@ Hack - ❌ <br>
 Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
+HTML - ❌ <br>
 IO - ❌ <br>
 Java - ✅ - [Java Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/java) <br>
 JavaScript - ❌ <br>
