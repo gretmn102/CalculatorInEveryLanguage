@@ -19,7 +19,7 @@ Clojure - ❌ <br>
 CPython - ❌ <br>
 CoffeeScript - ❌ <br>
 Crystal - ❌ <br>
-C - ❌ <br>
+C - ✅ - [C++ Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/c) <br>
 C++ - ✅ - [C++ Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/cpp) <br>
 C# - ❌ <br>
 Dart - ❌ <br>
