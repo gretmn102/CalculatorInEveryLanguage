@@ -3,9 +3,11 @@ This is a simple repo where we will all try to make a calculator in as many prog
 
 # Languages 
 
+ActionScript - ❌ <br>
 Assembly - ❌ <br>
 Bash - ❌ <br>
 Basic-256 - ❌ <br>
+Boolfuck - ❌ <br>
 Brainfuck - ❌ <br>
 Carbon - ❌ <br> 
 Clojure - ❌ <br>
@@ -16,8 +18,10 @@ C++ - ✅ <br>
 C# - ❌ <br>
 Dart - ❌ <br>
 D - ❌ <br>
+Freebrain - ❌ <br>
 Fortran - ❌ <br>
 F# - ❌ <br>
+Glass - ❌ <br>
 Gleam - ❌ <br>
 Go - ✅ <br>
 Groovy - ❌ <br>
