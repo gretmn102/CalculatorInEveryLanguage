@@ -3,63 +3,63 @@ This is a simple repo where we will all try to make a calculator in as many prog
 
 # Languages 
 
-Assembly - ❌
-Bash - ❌
-Brainfuck - ❌
-Carbon - ❌
-Clojure - ❌
-CoffeeScript - ❌
-Crystal - ❌
-C - ❌
-C++ - ✅
-C# - ❌
-Dart - ❌
-D - ❌
-Fortran - ❌
-F# - ❌
-Go - ✅
-Groovy - ❌
-Hack - ❌
-Haskell - ❌
-Haxe - ❌
-HolyC - ❌
-Java - ✅
-JavaScript - ❌
-Julia - ❌
-J++ - ❌
-J# - ❌
-Kotlin - ❌
-Lua - ❌
-MATLAB - ❌
-M4 - ❌
-Nim - ❌
-Nix - ❌
-OCaml - ❌
-Objective-C - ❌
-Objective-C++ - ❌
-Pascal - ❌
-Pearl - ❌
-PHP - ❌
-PowerShell - ❌
-PureScript - ❌
-Python - ❌
-Q# - ❌
-Ruby - ✅
-Rust - ❌
-R - ❌
-R++ - ❌
-Scala - ❌
-Solidity - ❌
-Squirrel - ❌
-Swift - ❌
-TeX - ❌
-TypeScript - ❌
-Vim Script - ❌
-Visual Basic - ❌
-Visual J++ - ❌
-Wyvern - ❌
-X# - ❌
-Z++ - ❌
+Assembly - ❌ <br>
+Bash - ❌ <br>
+Brainfuck - ❌ <br>
+Carbon - ❌ <br> 
+Clojure - ❌ <br>
+CoffeeScript - ❌ <br>
+Crystal - ❌ <br>
+C - ❌ <br>
+C++ - ✅ <br>
+C# - ❌ <br>
+Dart - ❌ <br>
+D - ❌ <br>
+Fortran - ❌ <br>
+F# - ❌ <br>
+Go - ✅ <br>
+Groovy - ❌ <br>
+Hack - ❌ <br>
+Haskell - ❌ <br>
+Haxe - ❌ <br>
+HolyC - ❌ <br>
+Java - ✅ <br>
+JavaScript - ❌ <br>
+Julia - ❌ <br>
+J++ - ❌ <br>
+J# - ❌ <br>
+Kotlin - ❌ <br>
+Lua - ❌ <br>
+MATLAB - ❌ <br>
+M4 - ❌ <br>
+Nim - ❌ <br>
+Nix - ❌ <br>
+OCaml - ❌ <br> 
+Objective-C - ❌ <br>
+Objective-C++ - ❌ <br>
+Pascal - ❌ <br>
+Pearl - ❌ <br>
+PHP - ❌ <br> 
+PowerShell - ❌ <br>
+PureScript - ❌ <br>
+Python - ❌ <br>
+Q# - ❌ <br>
+Ruby - ✅ <br> 
+Rust - ❌ <br>
+R - ❌ <br>
+R++ - ❌ <br>
+Scala - ❌ <br>
+Solidity - ❌ <br>
+Squirrel - ❌ <br>
+Swift - ❌ <br>
+TeX - ❌ <br>
+TypeScript - ❌ <br>
+Vim Script - ❌ <br>
+Visual Basic - ❌ <br>
+Visual J++ - ❌ <br>
+Wyvern - ❌ <br>
+X# - ❌ <br>
+Z++ - ❌ <br>
 
 
 
