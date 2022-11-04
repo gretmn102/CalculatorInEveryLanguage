@@ -97,9 +97,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributers
-<a href = "https://github.com/dominic754/CalculatorInEveryLanguage/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = dominic754/CalculatorInEveryLanguage"/>
-</a>
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
 
 # How to Contribute 
 To Contribute to CalculatorInEverylanguage or CIEL please read this [tutorial](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) by github
