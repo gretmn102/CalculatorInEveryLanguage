@@ -30,18 +30,23 @@ Julia - ❌ <br>
 J++ - ❌ <br>
 J# - ❌ <br>
 Kotlin - ❌ <br>
+Logo - ❌ <br>
 Lua - ❌ <br>
+Malbolge - ❌ <br>
 MATLAB - ❌ <br>
+MoonScript - ❌ <br>
 M4 - ❌ <br>
 Nim - ❌ <br>
 Nix - ❌ <br>
 OCaml - ❌ <br> 
 Objective-C - ❌ <br>
 Objective-C++ - ❌ <br>
+Objective-J - ❌ <br>
 Pascal - ❌ <br>
 Pearl - ❌ <br>
 PHP - ❌ <br> 
 PowerShell - ❌ <br>
+Processing - ❌ <br>
 PureScript - ❌ <br>
 Python - ❌ <br>
 Q# - ❌ <br>
@@ -50,6 +55,7 @@ Rust - ❌ <br>
 R - ❌ <br>
 R++ - ❌ <br>
 Scala - ❌ <br>
+Scheme - ❌ <br>
 Solidity - ❌ <br>
 Squirrel - ❌ <br>
 Swift - ❌ <br>
@@ -58,6 +64,7 @@ TypeScript - ❌ <br>
 Vim Script - ❌ <br>
 Visual Basic - ❌ <br>
 Visual J++ - ❌ <br>
+V - ❌ <br>
 Wyvern - ❌ <br>
 X# - ❌ <br>
 Zig - ❌ <br>
