@@ -108,7 +108,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributors
-<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="30" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="30" /></a>
+<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a>
 
 
 
