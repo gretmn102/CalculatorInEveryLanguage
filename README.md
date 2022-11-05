@@ -108,9 +108,7 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributors
-<a href="https://github.com/dominic754/CalculatorInEveryLanguage/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dominic754/CalculatorInEveryLanguage" />
-</a>
+<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="30" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="30" /></a>
 
 
 
