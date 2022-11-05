@@ -109,7 +109,7 @@ Z++ - ❌ <br>
 
 # Contributors
 <a href="https://github.com/dominic754/CalculatorInEveryLanguage/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dominic754/CalculatorInEveryLanguage"/>
+  <img src="https://contrib.rocks/image?repo=dominic754/CalculatorInEveryLanguage/"/>
 </a>
 
 # How to Contribute 
