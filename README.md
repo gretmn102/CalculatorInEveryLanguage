@@ -29,6 +29,7 @@ C++ - ✅ - [C++ Calculators](https://github.com/dominic754/CalculatorInEveryLan
 C# - ✅ - [C# Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/csharp) <br>
 Dart - ❌ <br>
 D - ❌ <br>
+Elm - ❌ <br>
 Fredge - ❌ <br>
 Freebrain - ❌ <br>
 Fortran - ❌ <br>
