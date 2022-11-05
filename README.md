@@ -48,7 +48,7 @@ HTML - ❌ <br>
 Irdris - ❌ <br>
 IO - ❌ <br>
 Java - ✅ - [Java Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/java) <br>
-JavaScript - ❌ <br>
+JavaScript - ✅ - [JavaScript Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/javascript) <br>
 Julia - ❌ <br>
 J++ - ❌ <br>
 J# - ❌ <br>
