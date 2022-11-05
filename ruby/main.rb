@@ -4,5 +4,23 @@ firstnum = gets.to_i
 puts "Input your second number\n"
 secondnum = gets.to_i
 
+puts "Input your desired operation\n"
+operation = gets.chomp
+
 puts "\n"
-puts firstnum + secondnum
+
+if operation == "+"
+  puts firstnum + secondnum
+end
+
+if operation == "-"
+  puts firstnum - secondnum
+end
+
+if operation == "*"
+  puts firstnum * secondnum
+end
+
+if operation == "/"
+  puts firstnum / secondnum
+end
