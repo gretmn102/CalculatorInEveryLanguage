@@ -90,6 +90,7 @@ R - ❌ <br>
 R++ - ❌ <br>
 Scala - ❌ <br>
 Scheme - ❌ <br>
+SmallTalk - ❌ <br>
 Smarty - ❌ <br>
 Solidity - ❌ <br>
 SourcePawn - ❌ <br>
