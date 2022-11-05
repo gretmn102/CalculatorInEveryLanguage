@@ -116,7 +116,7 @@ Z++ - ❌ <br>
 
 # How to Contribute 
 To Contribute to CalculatorInEverylanguage or CIEL please read this [tutorial](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) by github
-for more info dm **dominic754#0001**
+
 
 # Want to request a language?
 Create a [pull request](https://github.com/dominic754/CalculatorInEveryLanguage/pulls)!
