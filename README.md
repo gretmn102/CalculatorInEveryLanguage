@@ -23,7 +23,7 @@ Clojure - ❌ <br>
 COBOL - ❌ <br> 
 CPython - ❌ <br>
 CoffeeScript - ❌ <br>
-Crystal - ❌ <br>
+Crystal - ✅ - [Crystal Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Crystal) <br>
 C - ✅ - [C Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/c) <br>
 C++ - ✅ - [C++ Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/cpp) <br>
 C# - ✅ - [C# Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/csharp) <br>
