@@ -78,7 +78,7 @@ PowerShell - ✅ - [PowerShell Calculators](https://github.com/dominic754/Calcul
 Processing - ❌ <br>
 Puppet - ❌ <br>
 PureScript - ❌ <br>
-Python - ❌ <br>
+Python - ✅ <br>
 Q# - ❌ <br>
 Racket - ❌ <br>
 Red - ❌ <br>
