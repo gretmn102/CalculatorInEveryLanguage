@@ -63,7 +63,7 @@ MATLAB - ❌ <br>
 MicroPython - ❌ <br>
 MoonScript - ❌ <br>
 M4 - ❌ <br>
-Nim - ❌ <br>
+Nim - ✅ [Nim Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/nim) <br><br>
 Nix - ❌ <br>
 Nu - ❌ <br>
 OCaml - ❌ <br> 
@@ -79,7 +79,7 @@ PowerShell - ✅ - [PowerShell Calculators](https://github.com/dominic754/Calcul
 Processing - ❌ <br>
 Puppet - ❌ <br>
 PureScript - ❌ <br>
-Python - ✅ <br>
+Python - ✅ - [Python Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/python)<br>
 Q# - ❌ <br>
 Racket - ❌ <br>
 Red - ❌ <br>
