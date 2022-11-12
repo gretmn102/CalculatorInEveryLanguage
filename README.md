@@ -85,7 +85,7 @@ Racket - ❌ <br>
 Red - ❌ <br>
 Ring - ❌ <br>
 Ruby - ✅ - [Ruby Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/ruby) <br> 
-Rust - ❌ <br>
+Rust - [Rust Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/rust) <br>
 R - ❌ <br>
 R++ - ❌ <br>
 Scala - ❌ <br>
