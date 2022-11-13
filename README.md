@@ -100,7 +100,8 @@ Swift - ❌ <br>
 TeX - ❌ <br>
 TypeScript - ❌ <br>
 Vim Script - ❌ <br>
-Visual Basic - ❌ <br>
+Visual Basic - ✅ - [Visual Basic Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Visual%20Basic) <br>
+R - ❌ <br>
 Visual J++ - ❌ <br>
 V - ❌ <br>
 Wyvern - ❌ <br>
@@ -110,8 +111,10 @@ ZScript - ❌ <br>
 Z++ - ❌ <br>
 
 # Contributors
-<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a> <a href="https://github.com/AquaEBM"><img src="https://github.com/AquaEBM.png" width="100" /></a>
+<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a> <a href="https://github.com/AquaEBM"><img src="https://github.com/AquaEBM.png" width="100" /></a> <a href="https://github.com/7t8"><img src="https://github.com/7t8.png" width="100" /></a>
 
+# Contributors not on repo
+Thank you to [Lumi](https://github.com/7t8.png) for contributing and making the Visual Basic Calculator!
 
 
 # How to Contribute 
