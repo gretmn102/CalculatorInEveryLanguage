@@ -109,6 +109,7 @@ X# - ❌ <br>
 Zig - ❌ <br>
 ZScript - ❌ <br>
 Z++ - ❌ <br>
+Z# - ❌ <br>
 
 # Contributors
 <a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a> <a href="https://github.com/AquaEBM"><img src="https://github.com/AquaEBM.png" width="100" /></a> <a href="https://github.com/7t8"><img src="https://github.com/7t8.png" width="100" /></a>
