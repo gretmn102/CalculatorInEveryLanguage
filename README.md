@@ -44,7 +44,7 @@ Hack - ❌ <br>
 Haskell - ❌ <br>
 Haxe - ❌ <br>
 HolyC - ❌ <br>
-HTML - ❌ <br>
+HTML - ✅ - [HTML Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/HTML) <br>
 Irdris - ❌ <br>
 IO - ❌ <br>
 Java - ✅ - [Java Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/java) <br>
