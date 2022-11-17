@@ -11,7 +11,7 @@ So, this is a repository is just for a bunch of developers to contribute and use
 
 ActionScript - ❌ <br>
 Assembly - ❌ <br>
-Bash - ✅ - [Bash Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Bash) <br>
+Batch - ✅ - [Batch Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Batch) <br>
 Basic-256 - ❌ <br>
 Beef - ❌ <br>
 Blitz Basic - ❌ <br>
