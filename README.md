@@ -65,6 +65,7 @@ MoonScript - ❌ <br>
 M4 - ❌ <br>
 Nim - ✅ - [Nim Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/nim) <br>
 Nix - ❌ <br>
+NodeJS - ✅ - [NodeJS Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/nodejs) <br>
 Nu - ❌ <br>
 OCaml - ❌ <br> 
 Objective-C - ❌ <br>
