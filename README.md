@@ -73,7 +73,7 @@ Objective-J - ❌ <br>
 Pascal - ❌ <br>
 Perl - ❌ <br>
 Pearl - ❌ <br>
-PHP - ❌ <br> 
+PHP - ✅ - [PHP Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/php) <br>
 PonyC - ❌ <br>
 PowerShell - ✅ - [PowerShell Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/PowerShell)<br>
 Processing - ❌ <br>
