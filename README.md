@@ -112,7 +112,7 @@ Z++ - ❌ <br>
 Z# - ❌ <br>
 
 # Contributors
-<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a> <a href="https://github.com/AquaEBM"><img src="https://github.com/AquaEBM.png" width="100" /></a> <a href="https://github.com/7t8"><img src="https://github.com/7t8.png" width="100" /></a> <a href="https://github.com/tysongod101"><img src="https://github.com/tysongod101.png" width="100" /></a> 
+<a href="https://github.com/dominic754"><img src="https://github.com/dominic754.png" width="100" /></a><a href="https://github.com/ezweber"><img src="https://github.com/ezweber.png" width="100" /></a> <a href="https://github.com/AquaEBM"><img src="https://github.com/AquaEBM.png" width="100" /></a> <a href="https://github.com/7t8"><img src="https://github.com/7t8.png" width="100" /></a> <a href="https://github.com/tysongod101"><img src="https://github.com/tysongod101.png" width="100" /></a> <a href="https://github.com/codenamesui"><img src="https://github.com/codenamesui.png" width="100" /></a>
 
 # Contributors not on repo
 Thank you to [Lumi](https://github.com/7t8.png) for contributing and making the Visual Basic Calculator!
