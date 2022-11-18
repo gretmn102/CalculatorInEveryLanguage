@@ -98,7 +98,7 @@ Squirrel - ❌ <br>
 Starlark - ❌ <br>
 Swift - ❌ <br>
 TeX - ❌ <br>
-TypeScript - ❌ <br>
+TypeScript - ✅ - [TypeScript Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/typescript) <br>
 Vim Script - ❌ <br>
 Visual Basic - ✅ - [Visual Basic Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/Visual%20Basic) <br>
 R - ❌ <br>
