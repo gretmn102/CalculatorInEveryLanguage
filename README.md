@@ -72,7 +72,7 @@ Objective-C - ❌ <br>
 Objective-C++ - ❌ <br>
 Objective-J - ❌ <br>
 Pascal - ❌ <br>
-Perl - ❌ <br>
+Perl - ✅ - [Perl Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/perl) <br>
 Pearl - ❌ <br>
 PHP - ✅ - [PHP Calculators](https://github.com/dominic754/CalculatorInEveryLanguage/tree/main/php) <br>
 PonyC - ❌ <br>
